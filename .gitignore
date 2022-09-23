@@ -1,4 +1,7 @@
 ./data
-./paper
+../data
 data
+./paper
+../paper
 paper
+answer
